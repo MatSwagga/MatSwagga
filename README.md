@@ -2,7 +2,7 @@
 - 👀 I’m interested in business analytics using machine learning
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on any front or backend of an application
-- 📫 How to reach me my Github
+- 📫 How to reach me my LinkedIn is https://www.linkedin.com/in/matthewvasquezatx/
 
 <!---
 MatSwagga/MatSwagga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
